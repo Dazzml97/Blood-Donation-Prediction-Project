@@ -1,1 +1,3 @@
 # Blood-Donation-Prediction-Project
+## Project Overview:
+This project involves building a predictive model to determine whether a person will donate blood in a given period. The dataset contains information about the donors, including their recent donation history and frequency of donations. The objective is to identify patterns in donor behavior and create a model to predict future donations. We use the TPOT AutoML tool to automatically select the best model and compare it with a manually created Logistic Regression model. The performance of these models is evaluated using the Area Under the Curve (AUC) score.
